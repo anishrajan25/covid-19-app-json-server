@@ -36,5 +36,57 @@
       "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/monitorhealth.png",
       "description": "Watch for fever, cough, shortness of breath, or other symptoms of COVID-19. Especially important if you are running essential errands, going into the office or workplace. Take your temperature if symptoms develop."
     }
+  ],
+  "symptoms": [
+    {
+      "id": 0,
+      "name": "Fever or Chills",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/fever.png"
+    },
+    {
+      "id": 1,
+      "name": "Dry Cough",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/cough.png"
+    },
+    {
+      "id": 2,
+      "name": "Chest Pain or Pressure",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/chest.png"
+    },
+    {
+      "id": 3,
+      "name": "Loss of Taste and Smell",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/smell.png"
+    },
+    {
+      "id": 4,
+      "name": "Sore Throat",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/throat.png"
+    },
+    {
+      "id": 5,
+      "name": "Shortness of Breath/ Difficulty in Breathing",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/breath.png"
+    },
+    {
+      "id": 6,
+      "name": "Headache or Nausea",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/headache.png"
+    },
+    {
+      "id": 7,
+      "name": "Muscle Pain or Bodyaches",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/bodyache.png"
+    },
+    {
+      "id": 8,
+      "name": "Fatigue or Tiredness",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/fatigue.png"
+    },
+    {
+      "id": 9,
+      "name": "Diarrhea or Vomiting",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/diarrhea.png"
+    }
   ]
 }
