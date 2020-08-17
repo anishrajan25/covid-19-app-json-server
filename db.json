@@ -3,37 +3,37 @@
     {
       "id": 0,
       "name": "Wash Your Hands Often",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/hands.png?token=ANQKU5J7C3UJBI4VWH5TMJC7HJ74U",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/hands.png",
       "description": "Wash your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing."
     },
     {
       "id": 1,
       "name": "Maintain Social Distancing",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/distancing.png?token=ANQKU5IPSYIIZHUOD77OBS27HJ76U",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/distancing.png",
       "description": "Avoid close contact with people who are sick. Put 6 feet of distance between yourself and others. Remember that some people without symptoms may be able to spread virus."
     },
     {
       "id": 2,
       "name": "Wear a Mask",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/mask.png?token=ANQKU5I4KB63XJIDDEYR3627HKAAI",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/mask.png",
       "description": "Everyone should wear a mask in public settings and when around people who don’t live in your household, especially when other social distancing measures are difficult to maintain."
     },
     {
       "id": 3,
       "name": "Cover Coughs and Sneezes",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/cover.png?token=ANQKU5NSTQNUWGEMVI3DBHS7HKAGE",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/cover.png",
       "description": "Always cover your mouth and nose with a tissue when you cough or sneeze or use the inside of your elbow and do not spit. Throw used tissues in the trash."
     },
     {
       "id": 4,
       "name": "Clean and Disinfect",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/clean.png?token=ANQKU5IXOHQKQHTRWLDQI427HKAJM",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/clean.png",
       "description": "Clean and disinfect frequently touched surfaces daily. This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks."
     },
     {
       "id": 5,
       "name": "Monitor Your Health Daily",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/monitor.png?token=ANQKU5OV2QDDTKKVHSJOZS27HKAK2",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/monitor.png",
       "description": "Watch for fever, cough, shortness of breath, or other symptoms of COVID-19. Especially important if you are running essential errands, going into the office or workplace. Take your temperature if symptoms develop."
     }
   ]
