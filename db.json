@@ -9,7 +9,7 @@
     {
       "id": 1,
       "name": "Maintain Social Distancing",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/distancing.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/socialdistancing.png",
       "description": "Avoid close contact with people who are sick. Put 6 feet of distance between yourself and others. Remember that some people without symptoms may be able to spread virus."
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Cover Coughs and Sneezes",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/cover.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/covermouth.png",
       "description": "Always cover your mouth and nose with a tissue when you cough or sneeze or use the inside of your elbow and do not spit. Throw used tissues in the trash."
     },
     {
@@ -33,7 +33,7 @@
     {
       "id": 5,
       "name": "Monitor Your Health Daily",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/monitor.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/monitorhealth.png",
       "description": "Watch for fever, cough, shortness of breath, or other symptoms of COVID-19. Especially important if you are running essential errands, going into the office or workplace. Take your temperature if symptoms develop."
     }
   ]
