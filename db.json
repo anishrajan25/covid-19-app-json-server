@@ -46,27 +46,27 @@
     {
       "id": 1,
       "name": "Dry Cough",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/cough.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/cough.png"
     },
     {
       "id": 2,
       "name": "Chest Pain or Pressure",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/chest.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/chest.png"
     },
     {
       "id": 3,
       "name": "Loss of Taste and Smell",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/smell.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/smell.png"
      },
     {
       "id": 4,
       "name": "Sore Throat",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/throat.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/throat.png"
     },
     {
       "id": 5,
       "name": "Shortness of Breath/ Difficulty in Breathing",
-      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/breath.png",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/breath.png"
     },
     {
       "id": 6,
