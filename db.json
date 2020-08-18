@@ -105,5 +105,27 @@
       "heading": "HOW IT SPREADS",
       "info": "The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.\n\nYou can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth."
     }
+  ],
+  "map": [
+    {
+      "id": 0,
+      "heading": "Map of confirmed cases per million residents",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/899px-India_COVID-19_cases_density_map.svg.png"
+    },
+    {
+      "id": 1,
+      "heading": "Map of active cases",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/899px-India_COVID-19_active_cases_map.svg.png"
+    },
+    {
+      "id": 2,
+      "heading": "Map of confirmed cases",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/899px-India_COVID-19_confirmed_cases_map.svg.png"
+    },
+    {
+      "id": 3,
+      "heading": "Map of deaths due to the pandemic",
+      "image": "https://raw.githubusercontent.com/anishrajan25/covid-19-app-assets/master/images/899px-India_COVID-19_deaths_map.svg.png"
+    }
   ]
 }
